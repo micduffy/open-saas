@@ -1,0 +1,10 @@
+*/.wasp/
+*/.env.server
+*/.env.client
+*/.DS_Store
+*/node_modules
+*/migrations
+*/playwright/reports/
+*/playwright/test-results/
+*/playwright/.cache/
+.DS_Store
